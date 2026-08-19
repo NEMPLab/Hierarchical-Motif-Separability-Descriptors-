@@ -21,3 +21,5 @@ build/
 *.o
 *.so
 *.csv
+*.png
+*.txt
